@@ -1,0 +1,13 @@
+
+```
+{
+    "version": 0.1,
+    "sentiment": <sentiment>,
+    "issues": [
+        {
+            "topic": "charges",
+            "summary": "The pre-authorization amount of $1000 seems excessive."
+        }
+    ]
+}
+```
